@@ -1,0 +1,38 @@
+[
+  {
+    "id": "genre_001",
+    "name": "Electronic",
+    "description": "Modern electronic music and digital sounds",
+    "icon": "🎛️"
+  },
+  {
+    "id": "genre_002",
+    "name": "Indie Rock",
+    "description": "Independent rock music with creative flair",
+    "icon": "🎸"
+  },
+  {
+    "id": "genre_003",
+    "name": "Jazz",
+    "description": "Improvisational jazz music",
+    "icon": "🎷"
+  },
+  {
+    "id": "genre_004",
+    "name": "Synthwave",
+    "description": "Retro-futuristic electronic music",
+    "icon": "🌃"
+  },
+  {
+    "id": "genre_005",
+    "name": "Folk",
+    "description": "Traditional and contemporary folk music",
+    "icon": "🎵"
+  },
+  {
+    "id": "genre_006",
+    "name": "Hip Hop",
+    "description": "Urban hip hop and rap music",
+    "icon": "🎤"
+  }
+]

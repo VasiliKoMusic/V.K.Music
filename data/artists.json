@@ -1,0 +1,56 @@
+[
+  {
+    "id": "artist_001",
+    "name": "Luna Waves",
+    "image": "assets/images/artists/luna-waves.jpg",
+    "bio": "Electronic music producer from the digital realm, creating ambient soundscapes.",
+    "genre": "Electronic",
+    "followers": 5420,
+    "verified": true
+  },
+  {
+    "id": "artist_002",
+    "name": "The Coastal Band",
+    "image": "assets/images/artists/coastal-band.jpg",
+    "bio": "Indie rock band inspired by nature and freedom. Based in California.",
+    "genre": "Indie Rock",
+    "followers": 8340,
+    "verified": true
+  },
+  {
+    "id": "artist_003",
+    "name": "Smooth Collective",
+    "image": "assets/images/artists/smooth-collective.jpg",
+    "bio": "Jazz ensemble dedicated to bringing smooth vibes to modern audiences.",
+    "genre": "Jazz",
+    "followers": 3210,
+    "verified": false
+  },
+  {
+    "id": "artist_004",
+    "name": "Synth Masters",
+    "image": "assets/images/artists/synth-masters.jpg",
+    "bio": "Pioneers of synthwave music, blending retro aesthetics with modern production.",
+    "genre": "Synthwave",
+    "followers": 6890,
+    "verified": true
+  },
+  {
+    "id": "artist_005",
+    "name": "Folk Wanderers",
+    "image": "assets/images/artists/folk-wanderers.jpg",
+    "bio": "Acoustic folk musicians traveling the world and spreading folk music.",
+    "genre": "Folk",
+    "followers": 2450,
+    "verified": false
+  },
+  {
+    "id": "artist_006",
+    "name": "City Sounds",
+    "image": "assets/images/artists/city-sounds.jpg",
+    "bio": "Hip hop collective bringing urban beats and powerful lyrics to the masses.",
+    "genre": "Hip Hop",
+    "followers": 7560,
+    "verified": true
+  }
+]

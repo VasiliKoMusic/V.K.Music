@@ -1,0 +1,62 @@
+[
+  {
+    "id": "album_001",
+    "title": "Nocturnal Dreams",
+    "artist": "Luna Waves",
+    "year": 2024,
+    "image": "assets/images/albums/nocturnal-dreams.jpg",
+    "description": "A journey through the night in electronic soundscapes.",
+    "songCount": 12,
+    "genre": "Electronic"
+  },
+  {
+    "id": "album_002",
+    "title": "Seaside Stories",
+    "artist": "The Coastal Band",
+    "year": 2024,
+    "image": "assets/images/albums/seaside-stories.jpg",
+    "description": "Tales of adventure and freedom from the coast.",
+    "songCount": 10,
+    "genre": "Indie Rock"
+  },
+  {
+    "id": "album_003",
+    "title": "Urban Rhythms",
+    "artist": "Smooth Collective",
+    "year": 2024,
+    "image": "assets/images/albums/urban-rhythms.jpg",
+    "description": "Modern jazz for the contemporary listener.",
+    "songCount": 8,
+    "genre": "Jazz"
+  },
+  {
+    "id": "album_004",
+    "title": "Digital Era",
+    "artist": "Synth Masters",
+    "year": 2024,
+    "image": "assets/images/albums/digital-era.jpg",
+    "description": "Synthwave classics for retro futurism lovers.",
+    "songCount": 11,
+    "genre": "Synthwave"
+  },
+  {
+    "id": "album_005",
+    "title": "Nature's Call",
+    "artist": "Folk Wanderers",
+    "year": 2024,
+    "image": "assets/images/albums/natures-call.jpg",
+    "description": "Acoustic folk stories from travelers around the world.",
+    "songCount": 9,
+    "genre": "Folk"
+  },
+  {
+    "id": "album_006",
+    "title": "Metropolitan",
+    "artist": "City Sounds",
+    "year": 2024,
+    "image": "assets/images/albums/metropolitan.jpg",
+    "description": "Hip hop beats from the heart of the city.",
+    "songCount": 13,
+    "genre": "Hip Hop"
+  }
+]
